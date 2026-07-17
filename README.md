@@ -103,12 +103,12 @@ covered are Bielik (1.5B–11B), PLLuM (4B–12B), Gemma-4 (E4B, 12B), Qwen3
 ## Citation
 
 ```bibtex
-@misc{brzezinka2026familiarity,
-  title  = {Graded Entity-Familiarity Readouts in Language Models:
-            Polish Adaptation, Cross-Language Robustness, and Refusal Steering},
+@article{brzezinka2026graded,
+  title  = {Graded Entity-Familiarity Readouts in Language Models: Polish
+            Adaptation, Cross-Language Robustness, and Refusal Steering},
   author = {Brzezinka, Grzegorz},
-  year   = {2026},
-  note   = {Preprint.}
+  journal= {arXiv preprint arXiv:2607.13568},
+  year   = {2026}
 }
 ```
 
